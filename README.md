@@ -2,7 +2,7 @@
 Curso de Flask: crie uma webapp com Python
 
 ## Trilha do primeiro curso
-<img src="/tree/master/image/trilha_Curso1.jpg">
+![](https://github.com/MrFMach/Flask_Python_Jogoteca/blob/main/image/trilha_Curso1.jpg)
 
 ## Screenshots das telas
 <img src="/tree/master/image/main.jpg">
